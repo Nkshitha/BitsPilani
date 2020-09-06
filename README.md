@@ -1,2 +1,3 @@
-# BitsPilani
-A sample repository for DevOps assignment 
+# maven-project
+
+Simple Maven Project
